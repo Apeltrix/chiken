@@ -1,0 +1,29 @@
+h1 {
+    font-size: 3vw;   
+    color: darkblue;
+}
+h2 {
+    color: red;
+}
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+table {
+    border-style: dotted;
+    border-color: darkslateblue;
+    font-family: Arial, Helvetica, sans-serif
+}
+table, th, td {
+    border-style: dotted;
+    border-color: darkslateblue;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.stats {
+    color: purple
+}

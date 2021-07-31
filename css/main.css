@@ -1,0 +1,26 @@
+h2 {
+    color: skyblue;
+    background-color:royalblue;
+    text-align:center;
+    font-size: 5w;
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+ol {
+    background-color:royalblue;
+}
+li {
+    background-color:cornflowerblue;
+}
+#navbar{
+    background-color:cornflowerblue;
+    border-style:solid;
+    border-color:black;
+    border-collapse: collapse;
+    font-size:  20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#navbar th {
+    border-style:solid;
+}
+
+    
